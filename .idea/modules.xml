@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/adminsever/adminsever.iml" filepath="$PROJECT_DIR$/adminsever/adminsever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springBoot-Practice.iml" filepath="$PROJECT_DIR$/.idea/springBoot-Practice.iml" />
     </modules>
   </component>
